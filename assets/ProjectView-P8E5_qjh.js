@@ -1,0 +1,1 @@
+import{d as e,c as o,o as n}from"./index-6wTCmOBo.js";const s=e({__name:"ProjectView",setup(t){return(a,r)=>(n(),o("main",null,"Things I have worked on... additial projects comming here as I develop them. "))}});export{s as default};
